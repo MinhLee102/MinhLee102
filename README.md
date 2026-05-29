@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+```markdown
+<div align="center">
+
+```cpp
+// Hello World bằng C++ cho ngày mới năng động
+#include <iostream> 
+
+int main() {
+    std::cout << "こんにちは！" << std::endl;
+    return 0;
+}
+
 <!--
 **MinhLee102/MinhLee102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
